@@ -17,7 +17,7 @@ Fuck cancer.
 
 ## Usage
 
-Install the package with `go get github.com/travisgoodspeed/oghamtool`
+Install the package with `go install github.com/travisgoodspeed/oghamtool@latest`
 or clone the repo and build it with `make clean all`.  The `latin`
 flag converts Ogham to ASCII, and the `-ogham` flag converts ASCII
 into Ogham.  Your terminal will need UTF-8 support.
